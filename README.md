@@ -3,10 +3,11 @@
 - 🌱 I am passionate for learning new skills
 ## My Skills
 - Frontend: React/Next.js, Vue.js, Angular, Svelte
-- Backend: Node.js, Django, PHP/Laravel
+- Backend: Node.js, Django, Laravel
 - UI Frameworks: MUI, Bootstrap, ReactStrap, Tailwind CSS, Mantine...
 - Database: MySQL, PostreSQL, MongoDB, MariaDB, Oracle
 - API Integration: RESTful API, Payment API ...
+- Mobile: React Native, Flutter, Native, Java, Expo
 
 
 
